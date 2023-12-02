@@ -37,9 +37,9 @@
 | 33  | Drawbacks of Array in Java                          | :heavy_check_mark: |
 | 34  | Array of Objects in Java                            | :heavy_check_mark: |
 | 35  | Enhanced for Loop in Java                           | :heavy_check_mark: |
-| 36  | What is String in Java                              | [ ]             |
-| 37  | Mutable vs Immutable String in Java                 | [ ]             |
-| 38  | StringBuffer and StringBuilder in Java              | [ ]             |
+| 36  | What is String in Java                              | :heavy_check_mark: |
+| 37  | Mutable vs Immutable String in Java                 | :heavy_check_mark: |
+| 38  | StringBuffer and StringBuilder in Java              | :heavy_check_mark: |
 | 39  | Static Variable in Java                             | [ ]             |
 | 40  | Static Method in Java                               | [ ]             |
 | 41  | Static Block in Java                                | [ ]             |
