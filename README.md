@@ -2,31 +2,31 @@
 
 | #   | Topic                                               | Status |
 | --- | ----------------------------------------------------| ------------ |
-| 1   | Java Introduction                                   | [ x ]             |
-| 2   | JDK Setup                                           | [ x ]             |
-| 3   | First Code in Java                                  | [ x ]             |
-| 4   | How Java Works                                      | [ x ]             |
-| 5   | Complete Java Developer Course Launch               | [ x ]             |
-| 6   | Variables in Java                                   | [ x ]             |
-| 7   | Data Types in Java                                  | [ x ]             |
-| 8   | Literal in Java                                     | [ x ]             |
-| 9   | Type Conversion in Java                             | [ x ]             |
-| 10  | Assignment Operators in Java                        | [ x ]             |
-| 11  | Relational Operators in Java                        | [ x ]             |
-| 12  | Logical Operators in Java                           | [ x ]             |
-| 13  | If else in Java                                     | [ x ]             |
-| 14  | If Else If in Java                                  | [ x ]             |
-| 15  | Ternary Operator in Java                            | [ x ]             |
-| 16  | Switch Statement in Java                            | [ x ]             |
-| 17  | What's new in Java Switch                           | [ x ]             |
-| 18  | Need For Loop in Java                               | [ x ]             |
-| 19  | While Loop in Java                                  | [ x ]             |
-| 20  | Do While Loop in Java                               | [ x ]             |
-| 21  | For Loop in Java                                    | [ x ]             |
-| 22  | Which Loop To Use in Java                           | [ x ]             |
-| 23  | Class And Object Theory in Java                     | [ x ]             |
-| 24  | Class and Object Practical in Java                  | [ x ]             |
-| 25  | JDK JRE JVM in Java                                 | [ x ]             |
+| 1   | Java Introduction                                   | - [x]             |
+| 2   | JDK Setup                                           | - [x]             |
+| 3   | First Code in Java                                  | - [x]             |
+| 4   | How Java Works                                      | - [x]             |
+| 5   | Complete Java Developer Course Launch               | - [x]             |
+| 6   | Variables in Java                                   | - [x]             |
+| 7   | Data Types in Java                                  | - [x]             |
+| 8   | Literal in Java                                     | - [x]             |
+| 9   | Type Conversion in Java                             | - [x]             |
+| 10  | Assignment Operators in Java                        | - [x]             |
+| 11  | Relational Operators in Java                        | - [x]             |
+| 12  | Logical Operators in Java                           | - [x]             |
+| 13  | If else in Java                                     | - [x]             |
+| 14  | If Else If in Java                                  | - [x]             |
+| 15  | Ternary Operator in Java                            | - [x]             |
+| 16  | Switch Statement in Java                            | - [x]             |
+| 17  | What's new in Java Switch                           | - [x]             |
+| 18  | Need For Loop in Java                               | - [x]             |
+| 19  | While Loop in Java                                  | - [x]             |
+| 20  | Do While Loop in Java                               | - [x]             |
+| 21  | For Loop in Java                                    | - [x]             |
+| 22  | Which Loop To Use in Java                           | - [x]             |
+| 23  | Class And Object Theory in Java                     | - [x]             |
+| 24  | Class and Object Practical in Java                  | - [x]             |
+| 25  | JDK JRE JVM in Java                                 | - [x]             |
 | 26  | Methods in Java                                     | [ ]             |
 | 27  | Method Overloading in Java                          | [ ]             |
 | 28  | Stack And Heap in Java                              | [ ]             |
