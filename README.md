@@ -17,13 +17,13 @@
 | 13  | If else in Java                                     | [x]             |
 | 14  | If Else If in Java                                  | [x]             |
 | 15  | Ternary Operator in Java                            | [x]             |
-| 16  | Switch Statement in Java                            | [ ]             |
-| 17  | What's new in Java Switch                           | [ ]             |
-| 18  | Need For Loop in Java                               | [ ]             |
-| 19  | While Loop in Java                                  | [ ]             |
-| 20  | Do While Loop in Java                               | [ ]             |
-| 21  | For Loop in Java                                    | [ ]             |
-| 22  | Which Loop To Use in Java                           | [ ]             |
+| 16  | Switch Statement in Java                            | [x]             |
+| 17  | What's new in Java Switch                           | [x]             |
+| 18  | Need For Loop in Java                               | [x]             |
+| 19  | While Loop in Java                                  | [x]             |
+| 20  | Do While Loop in Java                               | [x]             |
+| 21  | For Loop in Java                                    | [x]             |
+| 22  | Which Loop To Use in Java                           | [x]             |
 | 23  | Class And Object Theory in Java                     | [ ]             |
 | 24  | Class and Object Practical in Java                  | [ ]             |
 | 25  | JDK JRE JVM in Java                                 | [ ]             |
