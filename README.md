@@ -1,32 +1,32 @@
 # Study Status
 
-| #   | Topic                                               | Status |
-| --- | ----------------------------------------------------| ------------ |
-| 1   | Java Introduction                                   | - [x]             |
-| 2   | JDK Setup                                           | - [x]             |
-| 3   | First Code in Java                                  | - [x]             |
-| 4   | How Java Works                                      | - [x]             |
-| 5   | Complete Java Developer Course Launch               | - [x]             |
-| 6   | Variables in Java                                   | - [x]             |
-| 7   | Data Types in Java                                  | - [x]             |
-| 8   | Literal in Java                                     | - [x]             |
-| 9   | Type Conversion in Java                             | - [x]             |
-| 10  | Assignment Operators in Java                        | - [x]             |
-| 11  | Relational Operators in Java                        | - [x]             |
-| 12  | Logical Operators in Java                           | - [x]             |
-| 13  | If else in Java                                     | - [x]             |
-| 14  | If Else If in Java                                  | - [x]             |
-| 15  | Ternary Operator in Java                            | - [x]             |
-| 16  | Switch Statement in Java                            | - [x]             |
-| 17  | What's new in Java Switch                           | - [x]             |
-| 18  | Need For Loop in Java                               | - [x]             |
-| 19  | While Loop in Java                                  | - [x]             |
-| 20  | Do While Loop in Java                               | - [x]             |
-| 21  | For Loop in Java                                    | - [x]             |
-| 22  | Which Loop To Use in Java                           | - [x]             |
-| 23  | Class And Object Theory in Java                     | - [x]             |
-| 24  | Class and Object Practical in Java                  | - [x]             |
-| 25  | JDK JRE JVM in Java                                 | - [x]             |
+| #   | Topic                                               | Status             |
+| --- | ----------------------------------------------------| -------------------|
+| 1   | Java Introduction                                   | :heavy_check_mark: |
+| 2   | JDK Setup                                           | :heavy_check_mark: |
+| 3   | First Code in Java                                  | :heavy_check_mark: |
+| 4   | How Java Works                                      | :heavy_check_mark: |
+| 5   | Complete Java Developer Course Launch               | :heavy_check_mark: |
+| 6   | Variables in Java                                   | :heavy_check_mark: |
+| 7   | Data Types in Java                                  | :heavy_check_mark: |
+| 8   | Literal in Java                                     | :heavy_check_mark: |
+| 9   | Type Conversion in Java                             | :heavy_check_mark: |
+| 10  | Assignment Operators in Java                        | :heavy_check_mark: |
+| 11  | Relational Operators in Java                        | :heavy_check_mark: |
+| 12  | Logical Operators in Java                           | :heavy_check_mark: |
+| 13  | If else in Java                                     | :heavy_check_mark: |
+| 14  | If Else If in Java                                  | :heavy_check_mark: |
+| 15  | Ternary Operator in Java                            | :heavy_check_mark: |
+| 16  | Switch Statement in Java                            | :heavy_check_mark: |
+| 17  | What's new in Java Switch                           | :heavy_check_mark: |
+| 18  | Need For Loop in Java                               | :heavy_check_mark: |
+| 19  | While Loop in Java                                  | :heavy_check_mark: |
+| 20  | Do While Loop in Java                               | :heavy_check_mark: |
+| 21  | For Loop in Java                                    | :heavy_check_mark: |
+| 22  | Which Loop To Use in Java                           | :heavy_check_mark: |
+| 23  | Class And Object Theory in Java                     | :heavy_check_mark: |
+| 24  | Class and Object Practical in Java                  | :heavy_check_mark: |
+| 25  | JDK JRE JVM in Java                                 | :heavy_check_mark: |
 | 26  | Methods in Java                                     | [ ]             |
 | 27  | Method Overloading in Java                          | [ ]             |
 | 28  | Stack And Heap in Java                              | [ ]             |
