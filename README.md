@@ -40,9 +40,9 @@
 | 36  | What is String in Java                              | :heavy_check_mark: |
 | 37  | Mutable vs Immutable String in Java                 | :heavy_check_mark: |
 | 38  | StringBuffer and StringBuilder in Java              | :heavy_check_mark: |
-| 39  | Static Variable in Java                             | [ ]             |
-| 40  | Static Method in Java                               | [ ]             |
-| 41  | Static Block in Java                                | [ ]             |
+| 39  | Static Variable in Java                             | :heavy_check_mark: |
+| 40  | Static Method in Java                               | :heavy_check_mark: |
+| 41  | Static Block in Java                                | :heavy_check_mark: |
 | 42  | Encapsulation in Java                               | [ ]             |
 | 43  | Getters and Setters in Java                         | [ ]             |
 | 44  | This keyword in Java                                | [ ]             |
