@@ -43,11 +43,11 @@
 | 39  | Static Variable in Java                             | :heavy_check_mark: |
 | 40  | Static Method in Java                               | :heavy_check_mark: |
 | 41  | Static Block in Java                                | :heavy_check_mark: |
-| 42  | Encapsulation in Java                               | [ ]             |
-| 43  | Getters and Setters in Java                         | [ ]             |
-| 44  | This keyword in Java                                | [ ]             |
-| 45  | Constructor in Java                                 | [ ]             |
-| 46  | Default vs Parameterized Constructor in Java        | [ ]             |
+| 42  | Encapsulation in Java                               | :heavy_check_mark: |
+| 43  | Getters and Setters in Java                         | :heavy_check_mark: |
+| 44  | This keyword in Java                                | :heavy_check_mark: |
+| 45  | Constructor in Java                                 | :heavy_check_mark: |
+| 46  | Default vs Parameterized Constructor in Java        | :heavy_check_mark: |
 | 47  | This and Super Method in Java                       | [ ]             |
 | 48  | Naming Convention in Java                           | [ ]             |
 | 49  | Anonymous Object in Java                            | [ ]             |
