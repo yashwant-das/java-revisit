@@ -59,8 +59,8 @@
 | 55  | Packages in Java                                    | :heavy_check_mark: |
 | 56  | Access Modifiers in Java                            | :heavy_check_mark: |
 | 57  | Polymorphism in Java                                | :heavy_check_mark: |
-| 58  | Dynamic Method Dispatch in Java                     | [ ]             |
-| 59  | Final keyword in Java                               | [ ]             |
+| 58  | Dynamic Method Dispatch in Java                     | :heavy_check_mark: |
+| 59  | Final keyword in Java                               | :heavy_check_mark: |
 | 60  | Object Class equals toString hashcode in Java       | [ ]             |
 | 61  | Upcasting and Downcasting in Java                   | [ ]             |
 | 62  | Wrapper Class in Java                               | [ ]             |
