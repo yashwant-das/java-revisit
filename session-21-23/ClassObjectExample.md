@@ -1,4 +1,4 @@
-# Let's create a simple example to illustrate the concepts of a class and an object in Java:
+# Let's create a simple example to illustrate the concepts of a class and an object in Java
 
 ```java
 // Define a class named "Person"

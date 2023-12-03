@@ -34,5 +34,4 @@ public class ClassObjectExample {
         System.out.println("\nDetails of Person 2:");
         person2.displayInfo();
     }
-
 }

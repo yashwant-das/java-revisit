@@ -48,8 +48,8 @@
 | 44  | This keyword in Java                                | :heavy_check_mark: |
 | 45  | Constructor in Java                                 | :heavy_check_mark: |
 | 46  | Default vs Parameterized Constructor in Java        | :heavy_check_mark: |
-| 47  | This and Super Method in Java                       | [ ]             |
-| 48  | Naming Convention in Java                           | [ ]             |
+| 47  | This and Super Method in Java                       | :heavy_check_mark: |
+| 48  | Naming Convention in Java                           | :heavy_check_mark: |
 | 49  | Anonymous Object in Java                            | [ ]             |
 | 50  | Need of Inheritance in Java                         | [ ]             |
 | 51  | What is Inheritance in Java                         | [ ]             |
