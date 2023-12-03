@@ -1,4 +1,4 @@
-The ternary operator (also known as the conditional operator) in Java is a concise way to express a conditional statement. It is a shorthand way of writing an `if-else` statement. The syntax of the ternary operator is as follows:
+# The ternary operator (also known as the conditional operator) in Java is a concise way to express a conditional statement. It is a shorthand way of writing an `if-else` statement. The syntax of the ternary operator is as follows
 
 ```java
 variable = (condition) ? expression_if_true : expression_if_false;

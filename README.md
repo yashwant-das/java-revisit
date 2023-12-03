@@ -50,15 +50,15 @@
 | 46  | Default vs Parameterized Constructor in Java        | :heavy_check_mark: |
 | 47  | This and Super Method in Java                       | :heavy_check_mark: |
 | 48  | Naming Convention in Java                           | :heavy_check_mark: |
-| 49  | Anonymous Object in Java                            | [ ]             |
-| 50  | Need of Inheritance in Java                         | [ ]             |
-| 51  | What is Inheritance in Java                         | [ ]             |
-| 52  | Single and Multilevel inheritance in Java           | [ ]             |
-| 53  | Multiple Inheritance in Java                        | [ ]             |
-| 54  | Method Overriding in Java                           | [ ]             |
-| 55  | Packages in Java                                    | [ ]             |
-| 56  | Access Modifiers in Java                            | [ ]             |
-| 57  | Polymorphism in Java                                | [ ]             |
+| 49  | Anonymous Object in Java                            | :heavy_check_mark: |
+| 50  | Need of Inheritance in Java                         | :heavy_check_mark: |
+| 51  | What is Inheritance in Java                         | :heavy_check_mark: |
+| 52  | Single and Multilevel inheritance in Java           | :heavy_check_mark: |
+| 53  | Multiple Inheritance in Java                        | :heavy_check_mark: |
+| 54  | Method Overriding in Java                           | :heavy_check_mark: |
+| 55  | Packages in Java                                    | :heavy_check_mark: |
+| 56  | Access Modifiers in Java                            | :heavy_check_mark: |
+| 57  | Polymorphism in Java                                | :heavy_check_mark: |
 | 58  | Dynamic Method Dispatch in Java                     | [ ]             |
 | 59  | Final keyword in Java                               | [ ]             |
 | 60  | Object Class equals toString hashcode in Java       | [ ]             |
