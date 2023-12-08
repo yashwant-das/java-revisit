@@ -1,4 +1,8 @@
-# Study Status
+# 📺 Reference Video
+
+[![Java Tutorial For beginners 2023](https://i.ytimg.com/vi/bm0OyhwFDuY/hqdefault.jpg)](https://youtube.com/playlist?list=PLsyeobzWxl7pe_IiTfNyr55kwJPWbgxB5&si=yUa6N7cK_FOvhX_0)
+
+## 👨🏻‍💻 Revision Status
 
 | #   | Topic                                               | Status             |
 | --- | ----------------------------------------------------| -------------------|
