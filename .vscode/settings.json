@@ -1,16 +1,15 @@
 {
     "java.debug.settings.onBuildFailureProceed": true,
     "java.project.sourcePaths": [
-        "session-00-08",
-        "session-09-15",
-        "session-16-20",
-        "session-21-23",
-        "session-24-35",
-        "session-36-38",
-        "session-39-41",
-        "session-41-46",
         "session-47-54",
-        "session-55-00",
+        "session-41-46",
+        "session-39-41",
+        "session-36-38",
+        "session-24-35",
+        "session-21-23",
+        "session-16-20",
+        "session-09-15",
+        "session-00-08",
         "session-61-00"
     ],
     "cSpell.words": [
